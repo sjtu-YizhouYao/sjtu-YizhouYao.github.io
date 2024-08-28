@@ -1,5 +1,5 @@
 ---
-title: "Amortized NISC over $Z_{2^k}$ from RMFE"
+title: "Amortized NISC over Z2k from RMFE"
 date: 2024
   venue: 'AsiaCrypt'
 ---
