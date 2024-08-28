@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
-I am a second year Ph.D. candidate at the Shanghai Jiao Tong University (2023- now). My research interest is theoretic cryptography and zero-knowledge proofs.
+I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supposed to graduate in spring, 2027. I am supervised by Prof. Chaoping Xing.
+In general, my interests include zero-knowledge proofs, secure multi-party computation, coding theory, etc. In particular, I have a special focus on vector oblivious linear evaluation (VOLE)-based ZK proofs, and pseudorandom correlation generators.
 
   
   
