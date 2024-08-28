@@ -16,7 +16,7 @@ In general, my interests include zero-knowledge proofs, secure multi-party compu
 <h2 id="education"> Education</h2>
 
 - Master of Cyber Security   
-  Carnegie Mellon University, School of Computer Science (2021- 2023)
+  Shanghai Jiao Tong University (2021- 2023)
   
 - Bachelor of Engineering, Information Security   
   Shanghai Jiao Tong University (2017 - 2021)
