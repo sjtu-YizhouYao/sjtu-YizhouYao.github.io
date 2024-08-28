@@ -1,0 +1,16 @@
+---
+title:  "Publications"
+classes: wide
+layout: archive
+permalink: /publications/
+author_profile: true
+tags: test
+categories: TestCategories
+---
+
+| Conference/Journal | Article                                        | Links |
+| -----|---------------------------------------- | -------------|
+| ASIACRYPT 2024 | Interactive Line-Point Zero-Knowledge with Sublinear Communication and Linear Computation<br> *Fuchun Lin, Chaoping Xing,  and Yizhou Yao* | ePrint, Springer |
+| CRYPTO 2024 | More Efficient Zero-Knowledge Protocols for Z2k via Galois rings<br> *Fuchun Lin, Chaoping Xing,  and Yizhou Yao* | ePrint, Springer |
+| ASIACRYPT 2023 | Amortized NISC for Z2k from RMFE<br> *Fuchun Lin, Chaoping Xing, Yizhou Yao and Chen Yuan* | [ePrint](https://eprint.iacr.org/2023/429), Springer |
+
