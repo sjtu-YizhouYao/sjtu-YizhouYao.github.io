@@ -10,17 +10,20 @@ redirect_from:
 
 
 
-<div style="display:none">
-I am a second year Ph.D. candidate at the Shanghai Jiao Tong University(2023- now). My research interest is theoretic cryptography and its application in the real world, especially the efficient multi-party computation. 
-</div>
+
+I am a second year Ph.D. candidate at the Shanghai Jiao Tong University (2023- now). My research interest is theoretic cryptography and zero-knowledge proofs.
+
   
   
 <h2 id="education"> Education</h2>
 
-- Ph.D. of Computer Science   
-  Carnegie Mellon University, School of Computer Science (2017 - 2022)
+- Master of Cyber Security   
+  Carnegie Mellon University, School of Computer Science (2021- 2023)
   
 - Bachelor of Engineering, Information Security   
+  Shanghai Jiao Tong University (2017 - 2021)
+
+- Second Bachelor of Science, Applied Mathematics   
   Shanghai Jiao Tong University (2017 - 2021)
 
 <h2 id="publications"> Publications</h2>
@@ -29,6 +32,15 @@ I am a second year Ph.D. candidate at the Shanghai Jiao Tong University(2023- no
 - *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**  
   ASIACRYPT 2024
+  
+- *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*   
+  Fuchun Lin, Chaoping Xing, **Yizhou Yao**  
+  CRYPTO 2024
+
+**2023:**
+- *Amortized NISC over Z_{2^k} from RMFE*   
+  Fuchun Lin, Chaoping Xing, **Yizhou Yao**, Chen Yuan  
+  ASIACRYPT 2023  
 
 
 
