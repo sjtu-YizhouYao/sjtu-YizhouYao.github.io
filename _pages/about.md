@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supposed to graduate in spring, 2027. I am supervised by Prof. Chaoping Xing.
-In general, my interests include zero-knowledge proofs, secure multi-party computation, coding theory, etc. In particular, I have a special focus on vector oblivious linear evaluation (VOLE)-based ZK proofs, and pseudorandom correlation generators.
+In general, my interests include zero-knowledge proofs, secure multi-party computation, coding theory, etc. In particular, I have a special focus on vector oblivious linear evaluation (VOLE)-based ZK proofs, and pseudorandom correlation generators/functions.
 
   
   
@@ -39,8 +39,6 @@ In general, my interests include zero-knowledge proofs, secure multi-party compu
 - *Amortized NISC over Z_{2^k} from RMFE*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**, Chen Yuan  
   ASIACRYPT 2023  [ePrint](https://eprint.iacr.org/2023/1363) [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8721-4_2)
-
-
 
 <h2 id="experience"> Experience</h2>
 
