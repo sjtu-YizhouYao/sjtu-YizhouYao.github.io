@@ -31,16 +31,16 @@ I am a second year Ph.D. candidate at the Shanghai Jiao Tong University (2023- n
 **2024:**
 - *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**  
-  ASIACRYPT 2024
+  ASIACRYPT 2024 
   
-- *More Efficient Zero-Knowledge Protocols over $Z_{2^k$ via Galois Rings*   
+- *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**  
-  CRYPTO 2024
+  CRYPTO 2024  [ePrint](https://eprint.iacr.org/2023/150) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_13)
 
 **2023:**
 - *Amortized NISC over Z_{2^k} from RMFE*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**, Chen Yuan  
-  ASIACRYPT 2023  
+  ASIACRYPT 2023  [ePrint](https://eprint.iacr.org/2023/1363) [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8721-4_2)
 
 
 
