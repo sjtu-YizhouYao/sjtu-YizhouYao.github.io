@@ -1,6 +1,6 @@
 ---
 title: "Amortized NISC over Z2k from RMFE"
-date: 2023-12-4
+date: 2023-12-04
   venue: 'AsiaCrypt'
 ---
 
