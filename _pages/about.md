@@ -24,7 +24,8 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 
 <h2 id="publications"> Publications</h2>
 (Authors listed in alphabet order)
-**2024:** 
+
+**2024:**  
 - *Efficient Pseudorandom Correlation Generators for Any Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   UPCOMING ON ePrint
