@@ -28,11 +28,11 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 **2024:**  
 - *Efficient Pseudorandom Correlation Generators for Any Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  UPCOMING ON ePrint
+  UPCOMING on ePrint
 
 - *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**    
-  ASIACRYPT 2024 
+  ASIACRYPT 2024 UPCOMING on ePrint
   
 - *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**  
