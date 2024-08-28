@@ -33,7 +33,7 @@ I am a second year Ph.D. candidate at the Shanghai Jiao Tong University (2023- n
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**  
   ASIACRYPT 2024
   
-- *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*   
+- *More Efficient Zero-Knowledge Protocols over $Z_{2^k$ via Galois Rings*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**  
   CRYPTO 2024
 
