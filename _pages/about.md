@@ -32,7 +32,7 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 
 - *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**    
-  ASIACRYPT 2024 UPCOMING on ePrint
+  ASIACRYPT 2024  [ePrint](https://eprint.iacr.org/2024/1431)
   
 - *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**  
