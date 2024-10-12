@@ -16,10 +16,7 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 - Master of Cyber Security   
   Shanghai Jiao Tong University (2021- 2023)
   
-- Bachelor of Engineering, Information Security   
-  Shanghai Jiao Tong University (2017 - 2021)
-
-- Second Bachelor of Science, Applied Mathematics   
+- Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
   Shanghai Jiao Tong University (2017 - 2021)
 
 <h2 id="publications"> Publications</h2>
@@ -47,3 +44,6 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 
 - Externel review at ASIACRYPT 2023, 2024. 
  
+<h2 id="awards"> Awards</h2>
+
+- I was awarded the 2024 National Scholarship for Doctoral Students.
