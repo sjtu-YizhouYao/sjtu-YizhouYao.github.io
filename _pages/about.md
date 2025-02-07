@@ -24,11 +24,11 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 
 **2025:**  
 - *Efficient Pseudorandom Correlation Generators for Any Galois Ring*     
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan 
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   Upcoming on ePrint
 
 - *On the Power of Sumcheck in Secure Multiparty Computation*     
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   [ePrint](https://eprint.iacr.org/2025/177)
 
 - *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
