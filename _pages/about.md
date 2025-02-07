@@ -22,14 +22,23 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 <h2 id="publications"> Publications</h2>
 (Authors listed in alphabet order)
 
-**2024:**  
-- *Efficient Pseudorandom Correlation Generators for Any Field*     
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  UPCOMING on ePrint
+**2025:**  
+- *Efficient Pseudorandom Correlation Generators for Any Galois Ring*     
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan 
+  Upcoming on ePrint
 
+- *On the Power of Sumcheck in Secure Multiparty Computation*     
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan
+  [ePrint](https://eprint.iacr.org/2025/177)
+
+- *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  EUROCRYPT 2025 [ePrint](https://eprint.iacr.org/2025/169) 
+
+**2024:**  
 - *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**    
-  ASIACRYPT 2024  [ePrint](https://eprint.iacr.org/2024/1431)
+  ASIACRYPT 2024  [ePrint](https://eprint.iacr.org/2024/1431) [Springer](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_11)
   
 - *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**  
