@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervised by Prof. Chaoping Xing. I am supposed to graduate in spring, 2027. In general, my interests include zero-knowledge proofs, secure multi-party computation, coding theory, etc. In particular, I have a special focus on vector oblivious linear evaluation (VOLE)-based ZK proofs, and pseudorandom correlation generators/functions.
+I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervised by Prof. Chaoping Xing. I am supposed to graduate in spring, 2027. In general, I have broad interests in zero-knowledge proofs and  secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on.
 
     
 <h2 id="education"> Education</h2>
