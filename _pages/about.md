@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervised by Prof. Chaoping Xing. I am supposed to graduate in spring, 2027. In general, I have broad interests in zero-knowledge proofs and  secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on.
+I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on.
 
     
 <h2 id="education"> Education</h2>
@@ -19,10 +19,8 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 - Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
   Shanghai Jiao Tong University (2017 - 2021)
 
-<h2 id="publications"> Publications</h2>
-(Authors listed in alphabet order)
+<h2 id="publications"> Manuscripts</h2>
 
-**2025:**  
 - *Efficient Pseudorandom Correlation Generators for Any Galois Ring*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   Upcoming on ePrint
@@ -31,6 +29,11 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   [ePrint](https://eprint.iacr.org/2025/177)
 
+
+<h2 id="publications"> Peer-Reviewed Publications</h2>
+(Authors listed in alphabet order)
+
+**2025:**  
 - *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   EUROCRYPT 2025 [ePrint](https://eprint.iacr.org/2025/169) 
