@@ -19,17 +19,6 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 - Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
   Shanghai Jiao Tong University (2017 - 2021)
 
-<h2 id="publications"> Manuscripts</h2>
-
-- *Efficient Pseudorandom Correlation Generators for Any Galois Ring*     
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  Upcoming on ePrint
-
-- *On the Power of Sumcheck in Secure Multiparty Computation*     
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  [ePrint](https://eprint.iacr.org/2025/177)
-
-
 <h2 id="publications"> Peer-Reviewed Publications</h2>
 (Authors listed in alphabet order)
 
@@ -51,6 +40,16 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 - *Amortized NISC over Z_{2^k} from RMFE*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**, and Chen Yuan  
   ASIACRYPT 2023  [ePrint](https://eprint.iacr.org/2023/1363) [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8721-4_2)
+
+<h2 id="manuscripts"> Manuscripts</h2>
+
+- *Efficient Pseudorandom Correlation Generators for Any Galois Ring*     
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  Upcoming on ePrint
+
+- *On the Power of Sumcheck in Secure Multiparty Computation*     
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  [ePrint](https://eprint.iacr.org/2025/177)
 
 <h2 id="experience"> Experience & Service</h2>
 
