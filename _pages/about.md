@@ -43,7 +43,11 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 
 <h2 id="manuscripts"> Manuscripts</h2>
 
-- *Efficient Pseudorandom Correlation Generators for Any Galois Ring*     
+- *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
+  Yuhao Jia, Songsong Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  Upcoming on ePrint
+
+- *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   Upcoming on ePrint
 
