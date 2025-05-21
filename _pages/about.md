@@ -25,15 +25,15 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 **2025:**  
 - *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
   Yuhao Jia, Songsong Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  CRYPTO 2025
+  to appear at CRYPTO 2025
 
 - *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  CRYPTO 2025
+  to appear at CRYPTO 2025
   
 - *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  EUROCRYPT 2025 [ePrint](https://eprint.iacr.org/2025/169) 
+  EUROCRYPT 2025 [ePrint](https://eprint.iacr.org/2025/169) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-91092-0_6)
 
 **2024:**  
 - *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
