@@ -13,7 +13,7 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
     
 <h2 id="education"> Education</h2>
 
-- Ph.d., Cyber Security   
+- Ph.D. in Cyber Security   
   Shanghai Jiao Tong University (2021- Present)
   
 - Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
