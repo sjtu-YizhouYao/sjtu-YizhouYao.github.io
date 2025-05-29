@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on.
+I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on.
 
     
 <h2 id="education"> Education</h2>
 
-- Master of Cyber Security   
-  Shanghai Jiao Tong University (2021- 2023)
+- Ph.d., Cyber Security   
+  Shanghai Jiao Tong University (2021- Present)
   
 - Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
   Shanghai Jiao Tong University (2017 - 2021)
@@ -23,29 +23,29 @@ I am a Ph.D. student at the Shanghai Jiao Tong University (2023- now), supervise
 (Authors listed in alphabet order)
 
 **2025:**  
-- *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
+- 6. *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
   Yuhao Jia, Songsong Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   to appear at CRYPTO 2025
 
-- *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
+- 5. *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   to appear at CRYPTO 2025
   
-- *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
+- 4. *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   EUROCRYPT 2025 [ePrint](https://eprint.iacr.org/2025/169) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-91092-0_6)
 
 **2024:**  
-- *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
+- 3. *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**    
   ASIACRYPT 2024  [ePrint](https://eprint.iacr.org/2024/1431) [Springer](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_11)
   
-- *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
+- 2. *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**  
   CRYPTO 2024  [ePrint](https://eprint.iacr.org/2023/150) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_13)
 
 **2023:**
-- *Amortized NISC over Z_{2^k} from RMFE*   
+- 1. *Amortized NISC over Z_{2^k} from RMFE*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**, and Chen Yuan  
   ASIACRYPT 2023  [ePrint](https://eprint.iacr.org/2023/1363) [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8721-4_2)
 
