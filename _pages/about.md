@@ -23,8 +23,8 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 (Authors listed in alphabet order)
 
 **2025:**  
-- *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan
+- *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*    
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan    
   To appear at ASIACRYPT 2025
   
 - *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
