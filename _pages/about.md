@@ -23,13 +23,17 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 (Authors listed in alphabet order)
 
 **2025:**  
+- *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan
+  To appear at ASIACRYPT 2025
+  
 - *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
   Yuhao Jia, Songsong Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  to appear at CRYPTO 2025
+  CRYPTO 2025 [Springer](https://link.springer.com/chapter/10.1007/978-3-032-01887-8_17)
 
 - *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  to appear at CRYPTO 2025
+  CRYPTO 2025 [ePrint](https://eprint.iacr.org/2025/1223) [Springer](https://link.springer.com/chapter/10.1007/978-3-032-01884-7_7)
   
 - *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
