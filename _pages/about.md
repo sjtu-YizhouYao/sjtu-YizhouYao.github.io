@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. Currently, I'm visiting Aarhus univeristy (from September 2025 to Feburary 2026). In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on. 
+I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. Currently, I'm visiting Aarhus univeristy (from September 2025 to February 2026). In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on. 
 
     
 <h2 id="education"> Education</h2>
