@@ -25,7 +25,7 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 **2025:**  
 - *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*    
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan    
-  To appear at ASIACRYPT 2025
+  ASIACRYPT 2025 [ePrint](https://eprint.iacr.org/2025/1866) [Springer](https://doi.org/10.1007/978-981-95-5116-3_19)
   
 - *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
   Yuhao Jia, Songsong Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
@@ -61,8 +61,8 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 
 <h2 id="experience"> Experience & Service</h2>
 
-- Externel review at ASIACRYPT 2023, 2024. 
+- Externel review at ASIACRYPT 2023 & 2024, EUROCRYPT 2026, also serve as a volunteer at TCC 2025.
  
 <h2 id="awards"> Awards</h2>
 
-- I was awarded the 2024 National Scholarship for Doctoral Students.
+- I was awarded the National Scholarship for Doctoral Students in 2024 & 2025.
