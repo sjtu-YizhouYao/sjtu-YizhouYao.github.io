@@ -8,19 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. Currently, I'm visiting Aarhus university (from September 2025 to February 2026). In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to distributive proof systems, pseudorandom correlation generators/functions, arithmetic garbled circuits, homomorphic secret sharings, and so on. 
+I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to pseudorandom correlation generators/functions, code-based succinct arguments, batch arguments, and so on. 
 
+Currently, I'm looking for postdoc/tenure-track opportunities. Please contact me via <yaoyizhou0620@sjtu.edu.cn>. 
     
 <h2 id="education"> Education</h2>
 
 - Ph.D. in Cyber Security   
   Shanghai Jiao Tong University (2021- Present)
+
+- Visiting Ph.D. in Cryptography, hosted by Prof. Claudio Orlandi   
+  Aarhus University (Sept 2025- Feb 2026)
   
 - Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
   Shanghai Jiao Tong University (2017 - 2021)
 
 <h2 id="publications"> Peer-Reviewed Publications</h2>
 (Authors listed in alphabet order)
+
+**2026:**  
+- *On the Power of Sumcheck in Secure Multiparty Computation*     
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  To appear at PKC 2026 [ePrint](https://eprint.iacr.org/2025/177)
 
 **2025:**  
 - *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*    
@@ -55,13 +64,13 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 
 <h2 id="manuscripts"> Manuscripts</h2>
 
-- *On the Power of Sumcheck in Secure Multiparty Computation*     
-  Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  [ePrint](https://eprint.iacr.org/2025/177)
+- *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*
+  Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan 
+  [ePrint](https://eprint.iacr.org/2026/196)
 
 <h2 id="experience"> Experience & Service</h2>
 
-- Externel review at ASIACRYPT 2023 & 2024, EUROCRYPT 2026, also serve as a volunteer at TCC 2025.
+- Externel review at ASIACRYPT 2023 & 2024, EUROCRYPT 2026, CRYPTO 2026, also serve as a volunteer at TCC 2025.
  
 <h2 id="awards"> Awards</h2>
 
