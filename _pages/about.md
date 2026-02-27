@@ -64,7 +64,7 @@ Currently, I'm looking for postdoc/tenure-track opportunities. Please contact me
 
 <h2 id="manuscripts"> Manuscripts</h2>
 
-- *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*
+- *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*    
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan 
   [ePrint](https://eprint.iacr.org/2026/196)
 
