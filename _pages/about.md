@@ -27,6 +27,10 @@ Currently, I'm looking for postdoc/tenure-track opportunities. Please contact me
 (Authors listed in alphabet order)
 
 **2026:**  
+- *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*     
+  Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  To appear at CRYPTO 2026 [ePrint](https://eprint.iacr.org/2026/196)
+
 - *On the Power of Sumcheck in Secure Multiparty Computation*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   To appear at PKC 2026 [ePrint](https://eprint.iacr.org/2025/177)
