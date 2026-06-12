@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to pseudorandom correlation generators/functions, code-based succinct arguments, batch arguments, and so on. 
-
-Currently, I'm looking for postdoc/tenure-track opportunities. Please contact me via <yaoyizhou0620@sjtu.edu.cn>. 
     
 <h2 id="education"> Education</h2>
 
