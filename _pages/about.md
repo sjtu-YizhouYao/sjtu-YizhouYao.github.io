@@ -13,13 +13,13 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 <h2 id="education"> Education</h2>
 
 - Ph.D. in Cyber Security   
-  Shanghai Jiao Tong University (2021- Present)
+  Shanghai Jiao Tong University (Sept 2021- Sept 2026)
 
 - Visiting Ph.D. in Cryptography, hosted by Prof. Claudio Orlandi   
   Aarhus University (Sept 2025- Feb 2026)
   
 - Bachelor of Engineering, Information Security and Second Bachelor of Science, Applied Mathematics   
-  Shanghai Jiao Tong University (2017 - 2021)
+  Shanghai Jiao Tong University (Sept 2017 - June 2021)
 
 <h2 id="publications"> Peer-Reviewed Publications</h2>
 (Authors listed in alphabet order)
@@ -66,9 +66,13 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 
 <h2 id="manuscripts"> Manuscripts</h2>
 
-- *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*    
+- *More Efficient SNARKs via Quasi-Abelian Codes: Faster, Smaller, and Field-Agnostic*    
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan 
-  [ePrint](https://eprint.iacr.org/2026/196)
+  [ePrint](https://eprint.iacr.org/2026/939)
+
+- *Batched Oblivious Transfer with Square-Root Communication*     
+  Yicheng Li, Claudio Orlandi, Lawrence Roy, and **Yizhou Yao**
+  [ePrint](https://eprint.iacr.org/2026/1541)
 
 <h2 id="experience"> Experience & Service</h2>
 
