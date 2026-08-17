@@ -25,13 +25,17 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 (Authors listed in alphabet order)
 
 **2026:**  
+- *Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More*        
+  Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
+  To appear at ASIACRYPT 2026
+
 - *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*     
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  To appear at CRYPTO 2026 [ePrint](https://eprint.iacr.org/2026/196)
+  CRYPTO 2026 [Springer](https://link.springer.com/chapter/10.1007/978-3-032-35418-1_14) [ePrint](https://eprint.iacr.org/2026/196)
 
 - *On the Power of Sumcheck in Secure Multiparty Computation*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  To appear at PKC 2026 [ePrint](https://eprint.iacr.org/2025/177)
+  PKC 2026 [Springer](https://link.springer.com/chapter/10.1007/978-3-032-26734-4_9) [ePrint](https://eprint.iacr.org/2025/177)
 
 **2025:**  
 - *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*    
