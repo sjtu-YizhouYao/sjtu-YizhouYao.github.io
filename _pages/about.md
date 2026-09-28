@@ -25,50 +25,50 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 (Authors listed in alphabet order)
 
 **2026:**  
-11. *Batched Oblivious Transfer with Square-Root Communication*     
+-11. *Batched Oblivious Transfer with Square-Root Communication*     
   Yicheng Li, Claudio Orlandi, Lawrence Roy, and **Yizhou Yao**    
   To appear at CIC 2026 [ePrint](https://eprint.iacr.org/2026/1541)
 
-10. *Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More*        
+-10. *Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More*        
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   To appear at ASIACRYPT 2026 [ePrint](https://eprint.iacr.org/2026/1940)
 
-9. *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*     
+-9. *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*     
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   CRYPTO 2026 [Springer](https://link.springer.com/chapter/10.1007/978-3-032-35418-1_14) [ePrint](https://eprint.iacr.org/2026/196)
 
-8. *On the Power of Sumcheck in Secure Multiparty Computation*     
+-8. *On the Power of Sumcheck in Secure Multiparty Computation*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   PKC 2026 [Springer](https://link.springer.com/chapter/10.1007/978-3-032-26734-4_9) [ePrint](https://eprint.iacr.org/2025/177)
 
 **2025:**  
-7. *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*    
+-7. *Succinct Line-Point Zero-Knowledge from Homomorphic Secret Sharing*    
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan    
   ASIACRYPT 2025 [ePrint](https://eprint.iacr.org/2025/1866) [Springer](https://doi.org/10.1007/978-981-95-5116-3_19)
   
-6. *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
+-6. *Polynomial Commitments for Galois rings and Applications to SNARKs over \mathbb{Z}_{2^k}*     
   Yuhao Jia, Songsong Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   CRYPTO 2025 [Springer](https://link.springer.com/chapter/10.1007/978-3-032-01887-8_17)
 
-5. *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
+-5. *Efficient Pseudorandom Correlation Generators over \mathbb{Z}/p^k\mathbb{Z}*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   CRYPTO 2025 [ePrint](https://eprint.iacr.org/2025/1223) [Springer](https://link.springer.com/chapter/10.1007/978-3-032-01884-7_7)
   
-4. *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
+-4. *Efficient Pseudorandom Correlation Generators for Any Finite Field*     
   Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
   EUROCRYPT 2025 [ePrint](https://eprint.iacr.org/2025/169) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-91092-0_6)
 
 **2024:**  
-3. *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
+-3. *Interactive Line-Point Zero-Knowledge Proofs with Sublinear Communication and Linear Computation*     
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**    
   ASIACRYPT 2024  [ePrint](https://eprint.iacr.org/2024/1431) [Springer](https://link.springer.com/chapter/10.1007/978-981-96-0935-2_11)
   
-2. *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
+-2. *More Efficient Zero-Knowledge Protocols over Z_{2^k} via Galois Rings*    
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**  
   CRYPTO 2024  [ePrint](https://eprint.iacr.org/2023/150) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_13)
 
 **2023:**
-1. *Amortized NISC over Z_{2^k} from RMFE*   
+-1. *Amortized NISC over Z_{2^k} from RMFE*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**, and Chen Yuan  
   ASIACRYPT 2023  [ePrint](https://eprint.iacr.org/2023/1363) [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8721-4_2)
 
