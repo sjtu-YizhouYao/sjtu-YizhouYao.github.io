@@ -25,9 +25,13 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 (Authors listed in alphabet order)
 
 **2026:**  
+- *Batched Oblivious Transfer with Square-Root Communication*     
+  Yicheng Li, Claudio Orlandi, Lawrence Roy, and **Yizhou Yao**
+  To appear at CIC 2026 [ePrint](https://eprint.iacr.org/2026/1541)
+
 - *Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More*        
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
-  To appear at ASIACRYPT 2026
+  To appear at ASIACRYPT 2026 [ePrint](https://eprint.iacr.org/2026/1940)
 
 - *Faster Pseudorandom Correlation Generators via Walsh-Hadamard Transform*     
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
@@ -74,9 +78,17 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan 
   [ePrint](https://eprint.iacr.org/2026/939)
 
-- *Batched Oblivious Transfer with Square-Root Communication*     
-  Yicheng Li, Claudio Orlandi, Lawrence Roy, and **Yizhou Yao**
-  [ePrint](https://eprint.iacr.org/2026/1541)
+- *How to Fold Linear Error-Correcting Codes with Optimal Proximity Gaps*    
+  Zhe Li, Chaoping Xing, **Yizhou Yao**, Chen Yuan, and Ruiqi Zhu 
+  [ePrint](https://eprint.iacr.org/2026/2133)
+
+- *ReedWeave: Faster Reed-Solomon Polynomial Commitments from Interleaving and Folding*    
+  Yuhao Jia, Zhe Li, Chaoping Xing, **Yizhou Yao**, Chen Yuan, and Jielong Zhang 
+  [ePrint](https://eprint.iacr.org/2026/2147)
+
+- *Quasar: A Field-Agnostic Polynomial Commitment Scheme with Polylogarithmic Verification from Quasi-Abelian Codes*    
+  Yuhao Jia, Zhe Li, Chaoping Xing, **Yizhou Yao**, and Chen Yuan
+  [ePrint](https://eprint.iacr.org/2026/1839)  
 
 <h2 id="experience"> Experience & Service</h2>
 
@@ -85,3 +97,4 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 <h2 id="awards"> Awards</h2>
 
 - I was awarded the National Scholarship for Doctoral Students in 2024 & 2025.
+- I was awarded the 2026 Ant-Intech (Future) Scholarship
