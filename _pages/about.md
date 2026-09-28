@@ -67,7 +67,7 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
   Fuchun Lin, Chaoping Xing, and **Yizhou Yao**  
   CRYPTO 2024  [ePrint](https://eprint.iacr.org/2023/150) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-68400-5_13)
 
-**2023:**
+**2023:**  
 -1. *Amortized NISC over Z_{2^k} from RMFE*   
   Fuchun Lin, Chaoping Xing, **Yizhou Yao**, and Chen Yuan  
   ASIACRYPT 2023  [ePrint](https://eprint.iacr.org/2023/1363) [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8721-4_2)
